@@ -35,11 +35,11 @@ Saya seorang mahasiswa dan web enthusiast.
 
 ---
 
-## 🚀 Projects
+## 🚀 Best 3 Projects
 
-- [Minesweeper](https://github.com/arfrhmn21/minesweeper) - Game Minesweeper klasik dibuat dengan JavaScript  
-- [Typing Test](https://github.com/arfrhmn21/typing-test) - Aplikasi untuk melatih kecepatan mengetik  
+- [Minesweeper](https://github.com/arfrhmn21/minesweeper) - Game Minesweeper klasik dibuat dengan JavaScript
 - [Color Sequence Memory Game](https://github.com/arfrhmn21/color-sequence-memory) - Game memory challenge berbasis warna
+- [Typing Test](https://github.com/arfrhmn21/typing-test) - Aplikasi untuk melatih kecepatan mengetik  
 
 ---
 
