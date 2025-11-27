@@ -36,9 +36,9 @@ Saya seorang mahasiswa as a web enthusiast
 
 ## 🚀 Projects
 
-- [Project A](https://github.com/arfrhmn21/minesweeper) - Minesweeper Game
-- [Project B](https://github.com/arfrhmn21/typing-test) - Typing Test
-- [Project C](https://github.com/arfrhmn21/color-sequence-memory) - Color Sequence Memory Game
+- [Minesweeper](https://github.com/arfrhmn21/minesweeper)
+- [Typing Test](https://github.com/arfrhmn21/typing-test)
+- [Color Sequence Memory Game](https://github.com/arfrhmn21/color-sequence-memory)
 
 ---
 
