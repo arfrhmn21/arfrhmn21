@@ -23,7 +23,6 @@ Saya seorang mahasiswa as a web enthusiast
 ## 📊 Statistik GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arfrhmn21&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arfrhmn21&theme=radical)
 
 ---
 
