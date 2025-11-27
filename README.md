@@ -1,16 +1,16 @@
 # Halo! 👋 Saya Arif
 
 Selamat datang di profil GitHub saya!  
-Saya seorang mahasiswa as a web enthusiast
+Saya seorang mahasiswa dan web enthusiast.
 
 🌍 Lokasi: Indonesia  
-📫 Email: ariffrahmann123@gmail.com
+📫 Email: [ariffrahmann123@gmail.com](mailto:ariffrahmann123@gmail.com)
 
 ---
 
 ## 🔭 Saat ini saya sedang
-- Belajar lebih dalam **Javascript dan C++**
-- Mengerjakan beberapa project
+- Belajar lebih dalam **JavaScript dan C++**  
+- Mengerjakan beberapa project seru  
 
 ---
 
@@ -22,7 +22,8 @@ Saya seorang mahasiswa as a web enthusiast
 
 ## 📊 Statistik GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arfrhmn21&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arfrhmn21&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arfrhmn21&theme=radical)
 
 ---
 
@@ -30,15 +31,16 @@ Saya seorang mahasiswa as a web enthusiast
 
 ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0-green)
+![C++](https://img.shields.io/badge/C++-17-blue)
 ![Git](https://img.shields.io/badge/Git-F05032-red)
 
 ---
 
 ## 🚀 Projects
 
-- [Minesweeper](https://github.com/arfrhmn21/minesweeper)
-- [Typing Test](https://github.com/arfrhmn21/typing-test)
-- [Color Sequence Memory Game](https://github.com/arfrhmn21/color-sequence-memory)
+- [Minesweeper](https://github.com/arfrhmn21/minesweeper) - Game Minesweeper klasik dibuat dengan JavaScript  
+- [Typing Test](https://github.com/arfrhmn21/typing-test) - Aplikasi untuk melatih kecepatan mengetik  
+- [Color Sequence Memory Game](https://github.com/arfrhmn21/color-sequence-memory) - Game memory challenge berbasis warna
 
 ---
 
@@ -46,11 +48,17 @@ Saya seorang mahasiswa as a web enthusiast
 
 ![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> “Coding is my playground, learning is my adventure.” – Arif
 
 ---
 
 ## 💬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/marifr) 
-[![Instagram](https://img.shields.io/badge/Instagram-@arfrhmn21-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arfrhmn21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arfrhmn21)  
+[![Instagram](https://img.shields.io/badge/Instagram-@arfrhmn21-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arfrhmn21)  
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/arfrhmn21/count.svg)
