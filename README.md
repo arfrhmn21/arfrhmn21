@@ -1,18 +1,16 @@
 # Halo! 👋 Saya Arif
 
 Selamat datang di profil GitHub saya!  
-Saya seorang mahasiswa yang suka coding, open-source, dan eksplorasi berbagai bahasa pemrograman.
+Saya seorang mahasiswa as a web enthusiast
 
 🌍 Lokasi: Indonesia  
-📫 Email: arif@example.com  
-💻 Portfolio: [arif.dev](https://arif.dev)
+📫 Email: ariffrahmann123@gmail.com
 
 ---
 
 ## 🔭 Saat ini saya sedang
-- Belajar lebih dalam **Python, JavaScript, dan React**  
-- Mengerjakan beberapa proyek open-source  
-- Eksperimen dengan AI & Machine Learning  
+- Belajar lebih dalam **Javascript dan C++**
+- Mengerjakan beberapa project
 
 ---
 
@@ -31,9 +29,7 @@ Saya seorang mahasiswa yang suka coding, open-source, dan eksplorasi berbagai ba
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![JavaScript](https://img.shields.io/badge/JS-ES6-yellow)
-![React](https://img.shields.io/badge/React-17.0.2-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0-green)
 ![Git](https://img.shields.io/badge/Git-F05032-red)
 
@@ -41,9 +37,9 @@ Saya seorang mahasiswa yang suka coding, open-source, dan eksplorasi berbagai ba
 
 ## 🚀 Projects
 
-- [Project A](https://github.com/arfrhmn21/project-a) - Contoh project Python dengan AI
-- [Project B](https://github.com/arfrhmn21/project-b) - Website interaktif dengan React
-- [Project C](https://github.com/arfrhmn21/project-c) - Open-source contribution
+- [Project A](https://github.com/arfrhmn21/minesweeper) - Minesweeper Game
+- [Project B](https://github.com/arfrhmn21/typing-test) - Typing Test
+- [Project C](https://github.com/arfrhmn21/color-sequence-memory) - Color Sequence Memory Game
 
 ---
 
@@ -57,6 +53,5 @@ Saya seorang mahasiswa yang suka coding, open-source, dan eksplorasi berbagai ba
 
 ## 💬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arfrhmn21) 
-[![Twitter](https://img.shields.io/badge/Twitter-@arfrhmn21-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/arfrhmn21) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/marifr) 
 [![Instagram](https://img.shields.io/badge/Instagram-@arfrhmn21-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arfrhmn21)
