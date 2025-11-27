@@ -1,3 +1,5 @@
+# Halo! 👋 Saya Arif
+
 Selamat datang di profil GitHub saya!  
 Saya seorang mahasiswa yang suka coding dan eksplorasi berbagai bahasa pemrograman.
 
