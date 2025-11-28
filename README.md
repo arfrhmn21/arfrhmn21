@@ -53,7 +53,7 @@ Saya seorang mahasiswa dan web enthusiast.
 
 ## 💬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/arfrhmn21)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfrhmn21-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/marifr)  
 [![Instagram](https://img.shields.io/badge/Instagram-@arfrhmn21-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arfrhmn21)  
 
 ---
