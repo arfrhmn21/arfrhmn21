@@ -37,8 +37,8 @@ Saya seorang mahasiswa dan web enthusiast.
 
 ## 🚀 Best 3 Projects
 
+- [Ludo](https://arfrhmn21.github.io/ludo) - Board game local multiplayer interaktif
 - [Minesweeper](https://arfrhmn21.github.io/minesweeper) - Game Minesweeper klasik dibuat dengan JavaScript
-- [Color Sequence Memory Game](https://arfrhmn21.github.io/color-sequence-memory) - Game memory challenge berbasis warna
 - [Tic Tac Toe](https://arfrhmn21.github.io/tic-tac-toe) - Tic Tac Toe Modern
 
 ---
